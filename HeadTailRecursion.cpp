@@ -2,12 +2,15 @@
 using namespace std;
 int fun1(int n)
 {
+
  if(n>0)
  {
   cout<<n;
   fun1(n-1);
-  cout<<n;
- }
+  cout<<
+ cout<<n;
+ fun1(n-1);
+ cout<<n
 }
 int main()
 {
