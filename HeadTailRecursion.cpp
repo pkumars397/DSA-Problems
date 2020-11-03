@@ -3,7 +3,8 @@ using namespace std;
 int fun1(int n)
 {
  cout<<n;
- fun(n-1);
+ fun1(n-1);
+ cout<<n;
 }
 int main()
 {
